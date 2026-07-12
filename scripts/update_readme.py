@@ -73,6 +73,20 @@ content = readme.read_text(encoding="utf-8")
 start = "<!--START_PROGRESS-->"
 end = "<!--END_PROGRESS-->"
 
+# --- Crash guard: fail clearly if markers are missing ---
+if start not in content or end not in content:
+    raise SystemExit(
+        f"❌ Could not find '{start}' or '{end}' in README.md.\n"
+        "Make sure both markers exist in README.md before running this script."
+    )
+
+if content.index(start) > content.index(end):
+    raise SystemExit(
+        f"❌ '{start}' appears after '{end}' in README.md.\n"
+        "Check that the markers are in the correct order."
+    )
+# ---------------------------------------------------------
+
 new = (
     content.split(start)[0]
     + start
