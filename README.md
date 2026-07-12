@@ -88,18 +88,17 @@ Problem-Solving/
 ![GitHub watchers](https://img.shields.io/github/watchers/rifahjahantamanna/Problem-Solving?style=social)
 
 ---
-
 ## 📈 Progress
 
-| Platform   | Status         |
-| ---------- | -------------- |
-| LeetCode   | 🟡 In Progress |
-| Codeforces | 🟡 In Progress |
-| HackerRank | 🟡 In Progress |
-| CSES       | 🟡 In Progress |
-| Others     | 🟡 In Progress |
+<!--START_PROGRESS-->
 
----
+| Platform | Problems Solved |
+|----------|----------------:|
+| Loading... | Loading... |
+
+<!--END_PROGRESS-->
+
+
 
 ## 🤝 Contributing
 
