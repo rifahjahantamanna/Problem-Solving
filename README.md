@@ -91,11 +91,20 @@ Problem-Solving/
 ## 📈 Progress
 
 <!--START_PROGRESS-->
+```text
+LeetCode     ░░░░░░░░░░░░░░░░░░░░ 0
+Codeforces   ░░░░░░░░░░░░░░░░░░░░ 0
+HackerRank   ░░░░░░░░░░░░░░░░░░░░ 0
+CodeChef     ░░░░░░░░░░░░░░░░░░░░ 0
+AtCoder      ████████████████████ 1
+CSES         ░░░░░░░░░░░░░░░░░░░░ 0
+LightOJ      ░░░░░░░░░░░░░░░░░░░░ 0
+Beecrowd     ░░░░░░░░░░░░░░░░░░░░ 0
+UVA          ░░░░░░░░░░░░░░░░░░░░ 0
 
-| Platform | Problems Solved |
-|----------|----------------:|
-| Loading... | Loading... |
-
+----------------------------------------
+Total Problems Solved: 1
+```
 <!--END_PROGRESS-->
 
 
